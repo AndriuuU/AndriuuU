@@ -3,7 +3,7 @@
 ## Acerca de mí
 Soy un desarrollador Junior FullStack Aquí hay un vistazo rápido de mis habilidades y experiencias:
 
-- 💻 Lenguajes de programación: Java, Spring boot, Python, Jdango, Laravel
+- 💻 Lenguajes de programación: Java, Spring boot, Python, Django, Laravel
 - 🌐 Tecnologías web: HTML, CSS, Flutter
 - 🛠️ Otros: Git, SQL
 
