@@ -17,7 +17,7 @@ Breve descripción del proyecto.
 Breve descripción del proyecto.
 
 ## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AndriuuU&show_icons=true&theme=radical)
 
 ## Contacto
 - 📧 Correo electrónico: andresmolinagonzalez@gmail.com
