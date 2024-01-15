@@ -25,7 +25,7 @@ Es un dearrollo de una página web a traves de Spring boot para que el administr
 -->
 
 ## Contacto
-- 📧 Correo electrónico: andresmolinagonzalez@gmail.com
+- 📧 Correo electrónico: andresmolinagonz@gmail.com
 
 ¡Gracias por visitar mi perfil! 👀
 <!--
