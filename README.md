@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Andres Molina Gonzalez
+# ¡Hola! 👋 Soy Andrés Molina González
 
 ## Acerca de mí
 Soy un desarrollador Junior FullStack Aquí hay un vistazo rápido de mis habilidades y experiencias:
