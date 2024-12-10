@@ -3,13 +3,15 @@
 ## Acerca de mí
 Soy un desarrollador Junior FullStack Aquí hay un vistazo rápido de mis habilidades y experiencias:
 
-- 💻 Lenguajes de programación: Java, Spring boot, Python, Django, Laravel
-- 🌐 Tecnologías web: HTML, CSS, Flutter, PHP
+- 💻 Lenguajes de back: Java + SpringBoot, Python + Django, PHP + Laravel
+- 🌐 Tecnologías front: HTML, CSS, React, PHP, JavaScript, Dart + Flutter
 - 🛠️ Otros: Git, SQL
 
 ## Proyectos Destacados
 Aquí hay algunos proyectos en los que he trabajado recientemente:
 
+### [Aplicación React con api](https://github.com/AndriuuU/React-Proyecto4-Too-Cars)
+Es un proyecto de una web utilizando una api externa para poder ver coches, el proyecto tiene control de usuario, opciones de usuario y selección de favoritos.
 ### [Aplicacion flutter](https://github.com/AndriuuU/ProyectConsultaAPI/tree/main/consulta_dermatologica)
 Es una aplicacion para gestionar las citas de una consulta medica, el desarrollo consta de dos partes, la parte de front-end que es la aplicación y la api donde se gestiona os datos de la misma pudiendo el admin gestionarlo todo a traves de la página web
 
