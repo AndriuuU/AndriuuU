@@ -4,11 +4,13 @@
 Soy un desarrollador Junior FullStack Aquí hay un vistazo rápido de mis habilidades y experiencias:
 
 - 💻 Lenguajes de back: Java + SpringBoot, Python + Django, PHP + Laravel
-- 🌐 Tecnologías front: HTML, CSS, React, PHP, JavaScript, Dart + Flutter
+- 🌐 Tecnologías front: HTML, CSS, React, Vue, PHP, JavaScript, Dart + Flutter
 - 🛠️ Otros: Git, SQL
 
 ## Proyectos Destacados
 Aquí hay algunos proyectos en los que he trabajado recientemente:
+### [Groupay Aplicacion Vue](https://github.com/AndriuuU/Groupay-Vue)
+Groupay es una aplicación web para gestionar gastos compartidos entre grupos, facilitando el registro, cálculo de balances y sugerencias de pagos entre sus miembros. El proyecto está desarrollado con Vue.js, Vue Router, Pinia, Firebase y Vite, e incluye una interfaz responsiva con temas claro y oscuro.
 
 ### [Aplicación React con API](https://github.com/AndriuuU/React-Proyecto4-Too-Cars)
 Es un proyecto de una web utilizando una api externa para poder ver coches, el proyecto tiene control de usuario, opciones de usuario y selección de favoritos.
